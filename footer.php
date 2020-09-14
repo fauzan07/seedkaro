@@ -3,7 +3,7 @@
      <div class="footer-top bg-1">
          <div class="container">
              <div class="row">
-                 <div class="col-lg-8 footcolor"><p>&copy; 2019 - All Rights Reserved, SeedKaro.</p>
+                 <div class="col-lg-8 footcolor"><p>&copy; 2020 - All Rights Reserved, SeedKaro.</p>
                  </div>
                  <div class="col-lg-4 col-md-4 col-12">
                          <ul class="list-inline pull-right footcolor">
